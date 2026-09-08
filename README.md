@@ -1,21 +1,20 @@
 <h2>
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-Hi 👋, I'm Mohamed Ragab!
-<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30">
+  Hi 👋, I'm Mohamed Ragab!
+  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h2>
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p>
-<em>💻 Full Stack Web Developer
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</em>
+  <em>💻 Full Stack Web Developer
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  </em>
 </p>
 
 <p>
-I'm Mohamed Ragab, a Full Stack Web Developer passionate about building modern,
-responsive and user-friendly web applications.
-I enjoy learning new technologies, building real-world projects and improving my programming skills.
+I'm Mohamed Ragab, a Full Stack Web Developer passionate about
+building modern web applications and improving my programming skills.
 </p>
 
 ---
@@ -23,14 +22,14 @@ I enjoy learning new technologies, building real-world projects and improving my
 ### 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,tailwind,react" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,tailwind,react,git,github,vscode" />
 </p>
 
 ---
 
 ### 🚀 A little more about me...
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45">
 
 ```javascript
 const mohamed = {
@@ -47,17 +46,21 @@ const mohamed = {
   frontend: [
     "HTML",
     "CSS",
-    "JavaScript",
     "Tailwind CSS",
     "React"
   ],
 
+  tools: [
+    "Git",
+    "GitHub",
+    "VS Code"
+  ],
+
   currentlyLearning: [
     "React",
-    "React Router",
     "REST APIs",
     "Authentication",
-    "Full Stack Development"
+    "React Router"
   ],
 
   goal: "Become a professional Full Stack Web Developer 🚀"
