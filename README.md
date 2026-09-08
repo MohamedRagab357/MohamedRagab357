@@ -1,244 +1,106 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Technical Lead at <a href="#">######
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<h2>👋 Hi, I'm Mohamed Ragab!</h2>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
-<a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<p>
+💻 <b>Web Developer</b> | 🌱 <b>Frontend Developer</b>
+</p>
 
-### 📫 Like to meet me?
+<p>
+I'm a Web Developer interested in building modern and responsive web applications.
+Currently, I'm focusing on improving my frontend development skills and building real-world projects using React.
+</p>
 
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+---
 
-<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+### 🚀 About Me
 
-👇 Hit in your console or terminal to connect with me.
+* 💻 I'm currently learning and improving my **Frontend Development** skills.
+* ⚛️ Working with **React.js** and modern JavaScript.
+* 🎨 Interested in building clean and responsive user interfaces.
+* 🔗 Learning how to work with **REST APIs** and external data.
+* 🧠 Always trying to understand the code instead of just copying it.
+* 🚀 Currently building and improving real-world projects.
 
-```bash
-npx anmol
-```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
+---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### 🛠️ Technologies & Tools
+
+#### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* React.js
+* React Router
+* Axios
+* Bootstrap
+
+#### Tools
+
+* Git
+* GitHub
+* VS Code
+* npm
+
+---
+
+### 📌 Current Focus
 
 ```javascript
-const anmol = {
-  name: "Anmol Pratap Singh",
-  pronouns: ["he", "him"],
-  languages: ["TypeScript", "JavaScript", "Python", "Dart"],
-  askMeAbout: [
-    "web development",
-    "mobile app development",
-    "cloud architecture",
-    "generative AI",
-    "agentic systems",
-    "SaaS products",
-    "system design"
+const mohamed = {
+  name: "Mohamed Ragab",
+
+  role: "Web Developer",
+
+  focus: [
+    "Frontend Development",
+    "React.js",
+    "JavaScript",
+    "Responsive Web Design",
+    "REST APIs"
   ],
 
-  technologies: {
-    frontend: {
-      frameworks: ["React", "Next.js"],
-      styling: ["Tailwind CSS", "Sass", "Bootstrap"],
-      uiLibraries: [
-        "Material UI",
-        "Ant Design",
-        "Chakra UI",
-        "shadcn/ui"
-      ]
-    },
+  currentlyLearning: [
+    "Advanced React",
+    "React Router",
+    "Authentication",
+    "State Management"
+  ],
 
-    backend: {
-      node: ["Node.js", "Express", "NestJS"],
-      python: ["Flask"]
-    },
-
-    mobile: {
-      crossPlatform: ["Flutter"]
-    },
-
-    devOps: {
-      tools: ["Docker", "GitHub Actions", "Nginx"],
-      practices: ["CI/CD", "Infrastructure as Code"]
-    },
-
-    cloud: {
-      aws: [
-        "EC2",
-        "S3",
-        "RDS",
-        "Lambda",
-        "Fargate",
-        "CloudWatch"
-      ],
-      gcp: [
-        "Compute Engine",
-        "Cloud Run",
-        "Cloud Functions",
-        "Cloud Storage",
-        "Firestore",
-        "BigQuery"
-      ]
-    },
-
-    databases: {
-      relational: ["PostgreSQL"],
-      nosql: ["MongoDB", "Firebase Realtime DB", "Firestore"],
-      inMemory: ["Redis"]
-    },
-
-    realtimeAndAPIs: [
-      "REST APIs",
-      "WebSockets",
-      "Socket.IO"
-    ],
-
-    ai: {
-      generativeAI: [
-        "LLM integration",
-        "Prompt engineering",
-        "Vector databases",
-        "AI agents",
-        "Workflow automation"
-      ],
-      architectures: [
-        "agentic architecture",
-        "tool-augmented agents",
-        "multi-agent systems"
-      ],
-      models: ["OpenAI", "Gemini", "Llama"]
-    }
-  },
-
-  architecture: {
-    frontend: ["SPA", "SSR"],
-    backend: ["monolith", "microservices", "serverless"],
-    cloudPatterns: [
-      "event-driven",
-      "agentic systems",
-      "scalable SaaS"
-    ],
-    data: ["relational", "nosql", "in-memory"]
-  },
-currentFocus:"Building scalable AI-first SaaS products with agentic architectures",
-funFact: "Most bugs disappear after a coffee and a clean commit history"
+  goal: "Become a strong professional Frontend Developer 🚀"
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+---
+
+### 📂 Projects
+
+Here are some of the projects I'm currently working on:
+
+* 🛒 **E-Commerce Website**
+
+  * React.js
+  * React Router
+  * Axios
+  * Responsive Design
+
+More projects coming soon 🚀
 
 ---
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C448%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-174%20hrs%2018%20mins-blue?style=flat)
+### 📫 Connect With Me
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-588-blue?style=flat)
+<p>
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53.63%20million%20lines%20of%20code-blue?style=flat)
+---
 
-**🐱 My GitHub Data** 
+### ⚡ Fun Fact
 
-> 📦 391.5 kB Used in GitHub's Storage 
- > 
-> 🏆 1,174 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 26 Public Repositories 
- > 
-> 🔑 33 Private Repositories 
- > 
-**I'm a Night 🦉** 
+> I believe that the best way to learn programming is to build, break, understand, and build again. 💻🔥
 
-```text
-🌞 Morning                9724 commits        █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-🌆 Daytime                14214 commits       ███████░░░░░░░░░░░░░░░░░░   28.58 % 
-🌃 Evening                18769 commits       █████████░░░░░░░░░░░░░░░░   37.74 % 
-🌙 Night                  7021 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-```
-📅 **I'm Most Productive on Tuesday** 
+---
 
-```text
-Monday                   9282 commits        █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-Tuesday                  9691 commits        █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
-Wednesday                5992 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Thursday                 5587 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Friday                   4450 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-Saturday                 7216 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Sunday                   7510 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-Markdown                 4 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   30.14 % 
-TypeScript               3 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
-Other                    3 hrs               ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-HTML                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-
-🔥 Editors: 
-Claude Code              10 hrs 1 min        ███████████████████░░░░░░   75.02 % 
-WebStorm                 3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
-DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-
-💻 Operating System: 
-Mac                      13 hrs 21 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 13 hrs 13 mins (98.98%)
-
-✍️ 5,690 lines written by AI, 2 lines written by hand (99.96% AI-written)
-
-🔤 5,374,060 Input Tokens, 1,401,085 Output Tokens
-
-💵 $415.90 Estimated AI Cost This Week
-
-🧠 683 AI Sessions, 742 AI Prompts
-
-Opus                     4,533 lines         ████████████████████░░░░░   79.53 % 
-Fable                    1,029 lines         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-K                        128 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-Sonnet                   10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📚 Verbose Prompter — average 4,378 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.23% of changed lines were hand-edited
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               33 repos            █████████░░░░░░░░░░░░░░░░   37.08 % 
-TypeScript               18 repos            █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-```
-
-
-
-
- Last Updated on 07/09/2026 04:43:45 UTC
-<!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+⭐ Feel free to check out my repositories and follow my journey as a Web Developer!
